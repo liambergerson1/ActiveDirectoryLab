@@ -24,11 +24,11 @@ In this lab, I will walk through how to create an Active Directory home lab envi
 
 <p align="center">
 Add the feature: <br/>
-<img src="https://imgur.com/a/DMayrfq" height="80%" width="80%" alt="Active Directory Steps"/>
+<img src="https://i.imgur.com/a/DMayrfq.png" height="80%" width="80%" alt="Active Directory Steps"/>
 <br />
 <br />
 Feature done installing:  <br/>
-<img src="https://imgur.com/ZwbbGJH" height="80%" width="80%" alt="Active Directory Steps"/>
+<img src="https://i.imgur.com/ZwbbGJH.png" height="80%" width="80%" alt="Active Directory Steps"/>
 <br />
 </p>
 

@@ -18,13 +18,17 @@ In this lab, I will walk through how to create an Active Directory home lab envi
 
 <h2>Program walk-through:</h2>
 
+<h3 align="center">
+<b>Install Active Directory Domain Services</b>
+</h3>
+
 <p align="center">
-Launch the utility: <br/>
-<img src="" height="80%" width="80%" alt="Active Directory Steps"/>
+Add the feature: <br/>
+<img src="https://imgur.com/a/DMayrfq" height="80%" width="80%" alt="Active Directory Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="" height="80%" width="80%" alt="Active Directory Steps"/>
+Feature done installing:  <br/>
+<img src="https://imgur.com/ZwbbGJH" height="80%" width="80%" alt="Active Directory Steps"/>
 <br />
 </p>
 

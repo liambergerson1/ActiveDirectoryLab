@@ -28,7 +28,7 @@ Add the feature: <br/>
 <br />
 <br />
 Feature done installing:  <br/>
-<img src="https://i.imgur.com/ZwbbGJH.png" height="80%" width="80%" alt="Active Directory Steps"/>
+<img src="https://i.imgur.com/a/ZwbbGJH.png" height="80%" width="80%" alt="Active Directory Steps"/>
 <br />
 </p>
 
